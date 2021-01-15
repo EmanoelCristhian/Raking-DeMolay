@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+* {
+    padding:0;
+    margin:0;
+    vertical-align:baseline;
+    list-style:none;
+    border:0;
+}
+
+.cabecalho {
+    background: linear-gradient(190deg, #822826 60%, #822826 70%);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 20vh;
+    width: 100%;
+}
+
+.titulo-header {
+    font-family: 'Yusei Magic', sans-serif;
+    align-self: center;
+    color: white;
+}
